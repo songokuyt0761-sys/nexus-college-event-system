@@ -17,7 +17,7 @@ npm.cmd install
 npm.cmd start
 ```
 
-5. Open http://localhost:5000
+5. Open https://nexus-college-event-system.onrender.com
 
 The server serves both the frontend and backend, so you do not need separate terminals.
 
