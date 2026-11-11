@@ -1,0 +1,17 @@
+{
+  "name": "nexus-college-event-system",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NEXUS College Event Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
