@@ -22,8 +22,10 @@ npm.cmd start
 The server serves both the frontend and backend, so you do not need separate terminals.
 
 ## Demo admin
-- Email: ` `
-- Password: ` `
+- Email: `admin@nexus.local
+`
+- Password: `NexusAdmin@123
+`
 
 Change this demo password and set a strong `SESSION_SECRET` before public deployment.
 
